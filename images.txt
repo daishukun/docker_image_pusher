@@ -1,1 +1,1 @@
---platform=linux/arm64 postgres:10.22
+--platform=linux/arm64 postgres:10.22-bullseye
