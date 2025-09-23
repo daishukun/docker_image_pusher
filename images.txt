@@ -1,10 +1,1 @@
---platform=linux/arm64 nginx:latest
---platform=linux/arm64 langgenius/dify-api:1.4.3
---platform=linux/arm64 langgenius/dify-plugin-daemon:0.1.2-local
---platform=linux/arm64 postgres:15-alpine
---platform=linux/arm64 redis:6-alpine
---platform=linux/arm64 langgenius/dify-web:1.4.3
---platform=linux/arm64 ubuntu/squid:latest
---platform=linux/arm64 langgenius/dify-sandbox:0.2.12
---platform=linux/arm64 nginx:latest
---platform=linux/arm64 semitechnologies/weaviate:1.19.0
+--platform=linux/arm64 openjdk:8u292-jre
