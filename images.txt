@@ -1,1 +1,1 @@
-python:3.12.10
+zhuquelab/aig-server:v3.4.4
