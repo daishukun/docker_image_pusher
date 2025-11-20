@@ -1,1 +1,2 @@
-zhuquelab/aig-server:v3.4.4
+golang:1.23.2-alpine
+alpine:3.19
