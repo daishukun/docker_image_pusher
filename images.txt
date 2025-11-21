@@ -1,2 +1,1 @@
-golang:1.23.2-alpine
-alpine:3.19
+zhuquelab/aig-agent:v3.4.4
