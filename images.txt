@@ -1,1 +1,2 @@
-zhuquelab/aig-agent:v3.4.4
+zhuquelab/aig-agent:latest
+zhuquelab/aig-server:latest
