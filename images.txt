@@ -1,1 +1,1 @@
-vllm/vllm-openai:v0.17.0-x86_64
+ghcr.io/xtls/xray-core:26.2.6
