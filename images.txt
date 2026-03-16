@@ -1,1 +1,1 @@
-ghcr.io/xtls/xray-core:26.2.6
+docker.io/searxng/searxng:latest
