@@ -1,1 +1,1 @@
-dhi.io/nginx:1
+dhi.io/python:3.12-debian13-dev
