@@ -1,1 +1,1 @@
-hagb/docker-easyconnect:7.6.3
+dhi.io/nginx:1-debian13-dev
